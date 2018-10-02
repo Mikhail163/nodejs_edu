@@ -1,0 +1,19 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "my first nodejs project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "webpack": "webpack -v"
+  },
+  "author": "Mikhail Uvarov",
+  "license": "ISC",
+  "dependencies": {
+    "ansi": "^0.3.1"
+  },
+  "devDependencies": {
+    "webpack": "^4.20.2",
+    "webpack-cli": "^3.1.2"
+  }
+}
